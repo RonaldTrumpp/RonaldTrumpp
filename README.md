@@ -16,8 +16,6 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
   <h3 style="color: #ffffff;">📊 Estatísticas do GitHub</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
