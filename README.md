@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/ronaldo-ribeiro-646291252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00FFDD?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seu-email@exemplo.com">
