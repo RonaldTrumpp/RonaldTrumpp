@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=500&color=#000000=true&vCenter=true&width=600&lines=Olá,+eu+sou+[Seu+Nome]!;Desenvolvedor+e+Entusiasta+de+Tecnologia!;Sempre+aprendendo+novas+tecnologias.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+[Seu+Nome]!;Desenvolvedor+e+Entusiasta+de+Tecnologia!;Sempre+aprendendo+novas+tecnologias.">
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"></p>
