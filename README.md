@@ -20,7 +20,7 @@
   <h3 style="color: #ffffff;">📊 Estatísticas do GitHub</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=RonaldTrumpp&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6&text_color=ffffff&title_color=ff79c6" alt="Estatísticas do GitHub" width="400px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldTrumpp&layout=compact&theme=dracula&hide_border=true&text_color=ffffff&title_color=ff79c6" alt="Linguagens Mais Usadas" width="420px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldTrumpp&layout=compact&theme=dracula&hide_border=true&text_color=ffffff&title_color=ff79c6" alt="Linguagens Mais Usadas" width="430px">
   </div>
 </div>
 
