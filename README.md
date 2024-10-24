@@ -19,8 +19,8 @@
 <div align="center">
   <h3 style="color: #ffffff;">📊 Estatísticas do GitHub</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6&text_color=ffffff&title_color=ff79c6" alt="Estatísticas do GitHub" width="400px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula&hide_border=true&text_color=ffffff&title_color=ff79c6" alt="Linguagens Mais Usadas" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api?username=RonaldTrumpp&show_icons=true&theme=dracula&hide_border=true&icon_color=ff79c6&text_color=ffffff&title_color=ff79c6" alt="Estatísticas do GitHub" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldTrumpp&layout=compact&theme=dracula&hide_border=true&text_color=ffffff&title_color=ff79c6" alt="Linguagens Mais Usadas" width="400px">
   </div>
 </div>
 
@@ -35,12 +35,11 @@
 
 <div align="center">
   <h3 style="color: #ffffff;">📈 Contribuições</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="Estatísticas de Contribuições" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldTrumpp&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="Estatísticas de Contribuições" width="400px">
 </div>
 
 <div align="center">
   <sub style="color: #cccccc;">👁️ Visitas no Perfil</sub>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=ff79c6&style=flat-square" alt="Contador de Visitas">
+  <img src="https://komarev.com/ghpvc/?username=RonaldTrumpp&color=ff79c6&style=flat-square" alt="Contador de Visitas">
 </div>
-
