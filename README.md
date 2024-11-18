@@ -34,11 +34,6 @@
 - Otimização de Banco de Dados com **PostgreSQL**
 
 <div align="center">
-  <h3 style="color: #ffffff;">📈 Contribuições</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldTrumpp&theme=dracula&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="Estatísticas de Contribuições" width="400px">
-</div>
-
-<div align="center">
   <sub style="color: #cccccc;">👁️ Visitas no Perfil</sub>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=RonaldTrumpp&color=ff79c6&style=flat-square" alt="Contador de Visitas">
